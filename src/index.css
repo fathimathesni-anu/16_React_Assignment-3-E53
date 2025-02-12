@@ -1,0 +1,19 @@
+
+.header{
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+nav a{
+  color: #fff;
+  margin: 0 5px;
+
+}
+.contents{
+  text-align: center;
+  padding: 100px 0;
+}
+
